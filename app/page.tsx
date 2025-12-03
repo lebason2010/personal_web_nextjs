@@ -12,8 +12,8 @@ export default function Home() {
         className="rounded-full border-4 border-white shadow-lg mb-6"
       />
 
-      <h1 className="text-5xl font-bold mb-4">Chào mừng đến trang của Bá Sơn!</h1>
-      <p className="text-xl mb-15">Một sinh viên tài năng với bộ óc thiên tài bị tổ chức áo đen cho uống thuốc viên thể hình giúp cơ bắp phát triển</p>
+      <h1 className="text-5xl font-bold text-white mb-4">Chào mừng đến trang của Bá Sơn!</h1>
+      <p className="text-xl text-white mb-15">Một sinh viên tài năng với bộ óc thiên tài bị tổ chức áo đen cho uống thuốc viên thể hình giúp cơ bắp phát triển</p>
       <WeatherWidget />
     </div>
   );
